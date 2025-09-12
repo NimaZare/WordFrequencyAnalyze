@@ -37,21 +37,21 @@ Level_1/
 1. **Clone this repository:**
 
 ```bash
-git clone https://github.com/your-username/word-frequency-analyzer.git
-cd word-frequency-analyzer
+git clone https://github.com/NimaZare/WordFrequencyAnalyze.git
+cd WordFrequencyAnalyze/Level_1
 ```
 
 2. **Run the project:**
 
 ```bash
-python src/main.py
+python main.py
 ```
 
 ---
 
 ## 🛠️ Requirements
 
-* Python 3.8+ (no external dependencies)
+* Python 3.11+ (no external dependencies)
 
 ---
 
