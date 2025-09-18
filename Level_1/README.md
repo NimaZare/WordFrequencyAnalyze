@@ -14,11 +14,11 @@ This project is organized with a modular structure, making it easy to extend and
 Level_1/
 │
 ├── src/
-│   ├── main.py              # Entry point of the application
 │   └── utils/
 │       ├── __init__.py      # Makes utils a package
 │       └── word_counter.py  # Contains functions for counting words
 │
+├── main.py                  # Entry point of the application
 └── README.md
 ```
 
