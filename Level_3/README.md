@@ -11,14 +11,17 @@ This project is organized with a modular structure, making it easy to extend and
 ## 📂 Project Structure
 
 ```
-Level_2/
+Level_3/
 │
 ├── src/
-│   ├── main.py              # Entry point of the application
 │   └── utils/
-│       ├── __init__.py      # Makes utils a package
-│       └── counting_tools.py  # Contains functions for counting words
+│       ├── __init__.py         # Makes utils a package
+│       └── counting_tools.py   # Contains functions for counting words
+│       └── output_tools.py     # Contains functions for showing output
 │
+│
+├── main.py                 # Entry point of the application
+├── flowchart.png           # application flowchart
 └── README.md
 ```
 
@@ -29,6 +32,7 @@ Level_2/
 - Counts occurrences of a **specific word** in a given text (text or file .txt)
 - Modular design for easy maintenance and scalability  
 - Simple and beginner-friendly codebase  
+- Show Chart, Text, Both (Chart and Text) in Output (*new*)
 
 ---
 
@@ -38,7 +42,7 @@ Level_2/
 
 ```bash
 git clone https://github.com/NimaZare/WordFrequencyAnalyze.git
-cd WordFrequencyAnalyze/Level_2
+cd WordFrequencyAnalyze/Level_3
 ```
 
 2. **Run the project:**

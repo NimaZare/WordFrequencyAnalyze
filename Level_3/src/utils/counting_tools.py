@@ -36,3 +36,6 @@ class WordCounter:
         except Exception as e:
             print("Error:", e)
             return 0
+
+
+word_counter = WordCounter()

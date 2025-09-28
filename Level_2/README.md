@@ -14,11 +14,13 @@ This project is organized with a modular structure, making it easy to extend and
 Level_2/
 │
 ├── src/
-│   ├── main.py              # Entry point of the application
 │   └── utils/
-│       ├── __init__.py      # Makes utils a package
-│       └── counting_tools.py  # Contains functions for counting words
+│       ├── __init__.py         # Makes utils a package
+│       └── counting_tools.py   # Contains functions for counting words
 │
+│
+├── main.py              # Entry point of the application
+├── flowchart.png        # application flowchart
 └── README.md
 ```
 
@@ -26,7 +28,7 @@ Level_2/
 
 ## ⚡ Features
 
-- Counts occurrences of a **specific word** in a given text (text or file .txt)
+- Counts occurrences of a **specific word** in a given text (text or file .txt) (*new*)
 - Modular design for easy maintenance and scalability  
 - Simple and beginner-friendly codebase  
 

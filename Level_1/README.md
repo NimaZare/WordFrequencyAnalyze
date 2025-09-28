@@ -19,6 +19,7 @@ Level_1/
 │       └── word_counter.py  # Contains functions for counting words
 │
 ├── main.py                  # Entry point of the application
+├── flowchart.png            # application flowchart
 └── README.md
 ```
 
